@@ -1,8 +1,5 @@
 ## Hi, I'm Mili 👋 
-2A CO-OP Mathematics student at the University of Waterloo<br>
-Interested in pursuing Computational Maths<br>
-I enjoy turning ideas into projects <br>
-Learning by building<br>
+I am a Mathematics student at the University of Waterloo. I am in my 2A term and I am interested in pursuing Computational Mathematics. I enjoy turning ideas into projects and am focused on learning by building.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mili-lad-ba6991322) 
